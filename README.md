@@ -1,2 +1,2 @@
 # mcversion
-A background app sending you a notification whenever a new Java Minecraft version comes out.
+A python-nodejs background app sending you a notification whenever a new Java Minecraft version comes out.
